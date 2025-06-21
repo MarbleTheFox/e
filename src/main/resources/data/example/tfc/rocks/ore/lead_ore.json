@@ -1,0 +1,10 @@
+{
+  "type": "tfc:ore",
+  "ore": "leadmod:lead_ore",
+  "spawn_size": 20,
+  "min_y": 40,
+  "max_y": 70,
+  "vein_radius": 4,
+  "frequency": 10,
+  "rock_types": ["limestone", "shale"]
+}
